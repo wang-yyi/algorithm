@@ -11,7 +11,6 @@ func mySqrt(x int) int {
 		} else {
 			r = mid - 1
 		}
-
 	}
 	return ans
 }
